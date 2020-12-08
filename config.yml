@@ -3,7 +3,7 @@
 #       CoreBot Config        #
 #                             #
 ###############################
-Bot_Token: "NzE3MDU4MDczMzg2Mjg3MTE1.XtuU7Q.91g4ywO-ROMqGl42BgusfFbrjVw"
+Bot_Token: ""
 # This is your bot application's token. You can get this by going to discord's developer portal, creating an application, then turning the application into a bot.
 Bot_Key: "717058073386287115"
 # This is the bot's key. You can get a key by joining our Discord (https://corebot.dev/support) and verifying that you purchased the bot.
